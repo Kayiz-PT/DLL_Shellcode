@@ -3,8 +3,6 @@ It is a script to create a revershell in victim's PC with Shellcode is generated
 # Usage
 Step 1: Insert your shellcode into shehllcode[] value.
 
-Step 2: Open your Calculator.
-
-Step 3: Using MSFConsole (Metasploit) to listen.
+Step 2: Using MSFConsole (Metasploit) to listen.
 
 Enjoy ^^
